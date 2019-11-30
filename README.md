@@ -7,3 +7,8 @@ I will commit it with the following commands:
 `git commit -m "Commit first master branch test"`
 
 ## Another change on the master branch
+
+:+1: Made some changes to MD
+
+[ ] It commited automaticaly
+[ ] It has to be commited
