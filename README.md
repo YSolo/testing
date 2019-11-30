@@ -10,5 +10,5 @@ I will commit it with the following commands:
 
 :+1: Made some changes to MD
 
-- [ ] It commited automaticaly
+- [x] It commited automaticaly, but with different name
 - [ ] It has to be commited
